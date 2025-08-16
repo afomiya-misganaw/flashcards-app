@@ -27,9 +27,6 @@ Since this is frontend-only:
 - Add different card decks
 - Include a "study mode" that shows cards randomly
 
-## Screenshot 📸
-![Flashcards App Screenshot](screenshot.png) *(optional - add later if you want)*
-
 ## Made With
 - HTML
 - CSS
